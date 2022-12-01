@@ -1,1 +1,1 @@
-
+bool primoo(int);
